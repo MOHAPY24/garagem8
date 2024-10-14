@@ -37,3 +37,7 @@ conventional vehicles for most features. BUT Electric support will
 grow bigger and bigger with time so have patience. 
 
 
+## Purely for Development
+
+This app **will not get GUI support** this project will purely be a platform for other developers to build onto, you can use this app on a terminal if you really try.
+**BUT** it might get GUI support if this project either blows up or gets support from other developers. 
