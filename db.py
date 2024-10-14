@@ -1,7 +1,12 @@
+
+
+# IMPORTS
 import json
 import os
 from datetime import datetime
 
+
+# Database Class
 class M8DB:
     def __init__(self, db_file, log_file='log.txt'):
         """Initialize the database and log file paths."""
